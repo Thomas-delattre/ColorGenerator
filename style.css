@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    transition: 1.5s linear;
+    margin: 0;
+}
+h2 {
+   
+    background: rgb(0, 0, 0);
+    color: white;
+    padding: 30px;
+    border-radius: 4px;
+  
+}
+
